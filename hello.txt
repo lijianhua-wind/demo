@@ -22,3 +22,6 @@ hello lijianhua! hello git!	hot-fix test
 3333333333333333333333333333333 update by lianxigithub second push
 444444444444444444444444444444 update by lianxigithub third push
 555555555555555555555555555555 update by linghuchong first push
+
+
+6666666666666666666666666666  update by other team first push
